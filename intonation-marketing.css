@@ -61,3 +61,7 @@ img.circle {
 .client-feedback-text p {
     margin-top: 12px;
 }
+
+#mc_embed_signup {
+    max-width: 100%;
+}
